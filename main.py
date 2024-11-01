@@ -25,7 +25,7 @@ def main():
     setup_environment()
     
     root = tk.Tk()
-    root.title("Tkinter Tester")
+    root.title("TkinterLab")
     
     try:
         config_manager = ConfigManager(os.path.join(DATA_DIR, 'config.json'))

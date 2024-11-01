@@ -2,7 +2,7 @@ from .config_manager import ConfigManager
 from .template_manager import TemplateManager
 
 __version__ = '1.0.0'
-__author__ = 'Tu Nombre'
+__author__ = 'naut54'
 
 def initialize_data_directory():
     """Inicializa el directorio de datos si no existe"""
