@@ -1,0 +1,15 @@
+{
+    "theme": "light",
+    "font_size": 10,
+    "window_size": {
+        "width": 920,
+        "height": 600
+    },
+    "last_position": {
+        "x": 953,
+        "y": 242
+    },
+    "recent_files": [],
+    "auto_save": true,
+    "last_code": "import tkinter as tk\nfrom tkinter import ttk\n\ndef create_window(root):\n    # Tu c\u00f3digo aqu\u00ed\n    label = ttk.Label(root, text=\"\u00a1Hola Mundo!\")\n    label.pack(padx=20, pady=20)"
+}
